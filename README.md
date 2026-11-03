@@ -11,7 +11,7 @@ A collection of the code I've written from 2018 to the present. Most of it targe
 | [FilterView](https://github.com/sjrankin/FilterView) | macOS, iOS | Swift |
 | [BoardTestG](https://github.com/sjrankin/BoardTestG) | macOS, iOS, Windows, Android | Godot |
 | [HUDView](https://github.com/sjrankin/HUDView) / [HUDViewUI](https://github.com/sjrankin/HUDViewUI) / [POIView2](https://github.com/sjrankin/POIView2) | iOS, watchOS | Swift |
-| [ColorManager](https://github.com/sjrankin/ColorManager_March2026) | macOS (iOS-capable) | Swift |
+| [ColorManager](https://github.com/sjrankin/ColorManager2) | macOS (iOS-capable) | Swift |
 | [Flatland](https://github.com/sjrankin/FlatlandView) | macOS (iOS version available) | Swift, SceneKit, AppKit |
 | [DeskBlockCam](https://github.com/sjrankin/DeskBlockCam) | macOS | Swift, SceneKit |
 
