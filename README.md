@@ -22,7 +22,7 @@ A macOS app, with some iOS functionality, that runs filters on images. It also h
 
 [Link to FilterView repo](https://github.com/sjrankin/FilterView)
 
-<img src="Images/FilterView+BoardTestG.gif" alt="Animation of FilterView streaming a video image of BoardTestG.">\
+<img src="Images/FilterView+BoardTestG.gif" alt="Animation of FilterView streaming a video image of BoardTestG.">
 
 ### BoardTestG (macOS, iOS, Android, Windows)
 A Match-3 game built in Godot with a cubic board. It is cross-platform and performs well on all modern devices.
@@ -31,7 +31,7 @@ A Match-3 game built in Godot with a cubic board. It is cross-platform and perfo
 
 BoardTestG running in attract mode with a discontinuous 2D board.
 
-<img src="Images/BoardTestGDiscontinuous.gif" alt="Animation of HUDView running.">\
+<img src="Images/BoardTestGDiscontinuous.gif" alt="Animation of HUDView running.">
 
 ### HUDView / HUDViewUI / POIView2 (iOS, watchOS)
 Three apps with the same core idea: point to points of interest based on the device's orientation.
@@ -40,19 +40,19 @@ Three apps with the same core idea: point to points of interest based on the dev
 
 **HUDView** running with a live view.
 
-<img src="Images/HUDViewVideo.gif" alt="Animation of HUDView running.">\
+<img src="Images/HUDViewVideo.gif" alt="Animation of HUDView running.">
 
 [Link to HUDView repo](https://github.com/sjrankin/HUDView)
 
 **HUDViewUI** running with a live view.
 
-<img src="Images/MainHUDViewSmall.gif" alt="Animation of HUDViewUI running.">\
+<img src="Images/MainHUDViewSmall.gif" alt="Animation of HUDViewUI running.">
 
 [Link to HUDViewUI repo](https://github.com/sjrankin/HUDViewUI)
 
 **POIView2** running with a radar display showing relative locations and distances.
 
-<img src="Images/POIView2Test.gif" alt="Animation of POIView2Test running.">\
+<img src="Images/POIView2Test.gif" alt="Animation of POIView2Test running.">
 
 [Link to POIView2 repo](https://github.com/sjrankin/POIView2)
 
@@ -66,7 +66,7 @@ A three-dimensional view of the Earth, with some two-dimensional views, that sho
 
 Flatland running on a Mac showing earthquakes current when the video was created.
 
-<img src="Images/FlatlandView.gif" alt="Animation of Flatland running.">\
+<img src="Images/FlatlandView.gif" alt="Animation of Flatland running.">
 
 [Link to Flatland repo](https://github.com/sjrankin/FlatlandView)
 
