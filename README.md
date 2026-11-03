@@ -14,7 +14,7 @@ This is my portfolio of code I have written from 2018 to now (November 2026). Mo
 ## ColorManager (macOS)
 [ColorManager](https://github.com/sjrankin/ColorManager_March2026) is a program that allows for the storage and display of named colors in color chips. Intended to run on macOS but can run on iOS.
 ## Flatland (macOS)
-[FlatLand](https://github.com/sjrankin/FlatlandView) is a three dimensional view (with some two dimensional views) of the Earth with real-time earthquake display. Intended to run on macOS. I have a version that runs on iOS. Also I ported Flatland to RealityKit via Claude but ran into issues with RealityKit's functionality versus SceneKit's functionality.
+[FlatLand](https://github.com/sjrankin/FlatlandView) is a three dimensional view (with some two dimensional views) of the Earth with real-time earthquake display. The display and user interface was mainly implemented in SceneKit. AppKit was used for some UI elements. Intended to run on macOS. I have a version that runs on iOS. Also I ported Flatland to RealityKit via Claude but ran into issues with RealityKit's functionality versus SceneKit's functionality.
 ## DeskBlockCam (macOS)
 [DeskBlockCam](https://github.com/sjrankin/DeskBlockCam) is a macOS program that converts live views into three dimentional images using SceneKit.
 
