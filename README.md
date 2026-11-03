@@ -36,6 +36,10 @@ HUDView running with a live view.
 
 <img src="Images/HUDViewVideo.gif" alt="Animation of HUDView running.">\
 
+HUDViewUI running with a live view.
+
+<img src="Images/MainHUDViewSmall.gif" alt="Animation of HUDViewUI running.">\
+
 POIView2 running with a radar display showing relative locations and distances.
 
 <img src="Images/POIView2Test.gif" alt="Animation of POIView2Test running.">\
