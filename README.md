@@ -22,7 +22,7 @@ A macOS app, with some iOS functionality, that runs filters on images. It also h
 
 [Link to FilterView repo](https://github.com/sjrankin/FilterView)
 
-<img src="Images/FilterView+BoardTestG.gif" alt="Animation of FilterView streaming a video image of BoardTestG.">\
+<img src="Images/FilterView+BoardTestG.gif" alt="Animation of FilterView streaming a video image of BoardTestG.">
 
 ### BoardTestG (macOS, iOS, Android, Windows)
 A Match-3 game built in Godot with a cubic board. It is cross-platform and performs well on all modern devices.
@@ -31,7 +31,7 @@ A Match-3 game built in Godot with a cubic board. It is cross-platform and perfo
 
 BoardTestG running in attract mode with a discontinuous 2D board.
 
-<img src="Images/BoardTestGDiscontinuous.gif" alt="Animation of HUDView running.">\
+<img src="Images/BoardTestGDiscontinuous.gif" alt="Animation of HUDView running.">
 
 ### HUDViewWatch (iOS, watchOS)
 This app on iPhones shows a live view with points of interest overlayed the camera view. The points of interest remain in place relative to the user as the phone is moved around. A watchOS companion app displays the same information (without the live view) on a radar plot.
@@ -54,7 +54,7 @@ A three-dimensional view of the Earth, with some two-dimensional views, that sho
 
 Flatland running on a Mac showing earthquakes current when the video was created.
 
-<img src="Images/FlatlandView.gif" alt="Animation of Flatland running.">\
+<img src="Images/FlatlandView.gif" alt="Animation of Flatland running.">
 
 [Link to Flatland repo](https://github.com/sjrankin/FlatlandView)
 
