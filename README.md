@@ -22,7 +22,7 @@ A macOS app, with some iOS functionality, that runs filters on images. It also h
 
 [Link to FilterView repo](https://github.com/sjrankin/FilterView)
 
-<img src="Images/FilterView+BoardTestG.gif" alt="Animation of FilterView streaming a video image of BoardTestG.">
+<img src="Images/FilterView+BoardTestG.gif" alt="Animation of FilterView streaming a video image of BoardTestG." width="600">
 
 ### BoardTestG (macOS, iOS, Android, Windows)
 A Match-3 game built in Godot with a cubic board. It is cross-platform and performs well on all modern devices.
