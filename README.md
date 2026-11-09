@@ -45,7 +45,10 @@ Animation of HUDViewWatch running on an Apple Watch.\
 [Link to HUDViewWatch repo](https://github.com/sjrankin/HUDViewWatch)
 
 ### ColorManager (macOS)
-Stores named colors and displays them as color chips. Built for macOS, but it also runs on iOS.
+Stores named colors and displays them as color chips. Originally written in C# and WPF for Windows, ported to macOS. (The app can run on iOS but several features are removed for that platform.)
+
+View of theColor manager showing various colors.\
+<img src="Images/ColorManagerStatic.png" alt="View of ColorManager showing colors." width="600">\
 
 [Link to ColorManager repo](https://github.com/sjrankin/ColorManager2)
 
