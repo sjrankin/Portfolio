@@ -61,6 +61,17 @@ Flatland running on a Mac showing earthquakes current when the video was created
 
 [Link to Flatland repo](https://github.com/sjrankin/FlatlandView)
 
+#### Flatland Universal
+This is a port of Flatland (see above) to Godot via Claude. Claude enables straightforward cross-compilation to other platforms, which was one of the goals of Flatland Universal (project name FlatlandU).
+
+Flatland Universal showing the orbiting welcoming text.
+
+<img src="Images/FlatlandUWelcome.gif" alt="Animation of Flatland universal welcome text." width="500">\
+
+Flatland Universal in an alternate attract mode:
+
+<img src="Images/FlatlandU-recording.gif" alt="Animation of Flatland universal welcome text." width="500">\
+
 ### DeskBlockCam (macOS)
 A macOS app that converts live camera views into three-dimensional images using SceneKit.
 
