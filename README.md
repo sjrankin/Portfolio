@@ -13,7 +13,9 @@ A collection of the code I've written from 2018 to the present. Most of it targe
 | [HUDViewWatch](https://github.com/sjrankin/HUDViewWatch) | iOS, watchOS | Swift |
 | [ColorManager](https://github.com/sjrankin/ColorManager2) | macOS (iOS-capable) | Swift |
 | [Flatland](https://github.com/sjrankin/FlatlandView) | macOS (iOS version available) | Swift, SceneKit, AppKit |
+| [FlatlandU](https://https://github.com/sjrankin/FlatlandU) | macOS, iOS, Windows, Android | Godot |
 | [DeskBlockCam](https://github.com/sjrankin/DeskBlockCam) | macOS | Swift, SceneKit |
+| [DeskImageFinder](https://github.com/sjrankin/DeskImageFinder) | macOS | Swift |
 
 ## Projects
 
@@ -72,6 +74,8 @@ Flatland Universal in an alternate attract mode:
 
 <img src="Images/FlatlandU-recording.gif" alt="Animation of Flatland universal welcome text." width="500">\
 
+[Link to FlatlandU repo](https://https://github.com/sjrankin/FlatlandU)
+
 ### DeskBlockCam (macOS)
 A macOS app that converts live camera views into three-dimensional images using SceneKit.
 
@@ -80,4 +84,11 @@ DeskBlockCam running with a live view.
 <img src="Images/UpdatedBlockCam.gif" alt="Animation of DeskBlockCam running.">
 
 [Link to DeskBlockCam repo](https://github.com/sjrankin/DeskBlockCam)
+
+### Desk Image Finder (macOS)
+App that runs on Macs that searches for similar images. Answers the question: Do I already have this image somewhere? Arranges images in order of similarity.
+
+<img src="Images/SearchResults.png" alt="Search results view from DeskImageFinder">
+
+[Link to DeskImageFinder repo](https://github.com/sjrankin/DeskImageFinder)
 
