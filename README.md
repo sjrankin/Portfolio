@@ -16,6 +16,7 @@ A collection of the code I've written from 2018 to the present. Most of it targe
 | [FlatlandU](https://https://github.com/sjrankin/FlatlandU) | macOS, iOS, Windows, Android | Godot |
 | [DeskBlockCam](https://github.com/sjrankin/DeskBlockCam) | macOS | Swift, SceneKit |
 | [DeskImageFinder](https://github.com/sjrankin/DeskImageFinder) | macOS | Swift |
+| [SpectrumAnalyzer](https://github.com/sjrankin/SpectrumAnalyzer) | macOS, iOS | Swift |
 
 ## Projects
 
@@ -92,3 +93,9 @@ App that runs on Macs that searches for similar images. Answers the question: Do
 
 [Link to DeskImageFinder repo](https://github.com/sjrankin/DeskImageFinder)
 
+### SpectrumAnalyzer
+A quick app to apply a sound spectrum to a histogram of an app. The results were interesting but not what I was looking for.
+
+<img src="Images/MusicSpectrumOnImage.gif" alt="Sound spectrum applied to an image via a histogram." width="500">
+
+[Link to SpectrumAnalyzer repo](https://github.com/sjrankin/SpectrumAnalyzer)
