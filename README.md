@@ -15,6 +15,7 @@ A collection of the code I've written from 2018 to the present. Most of it targe
 | [Flatland](https://github.com/sjrankin/FlatlandView) | macOS (iOS version available) | Swift, SceneKit, AppKit |
 | [FlatlandU](https://https://github.com/sjrankin/FlatlandU) | macOS, iOS, Windows, Android | Godot |
 | [DeskBlockCam](https://github.com/sjrankin/DeskBlockCam) | macOS | Swift, SceneKit |
+| [BumpCamG](https://github.com/sjrankin/BumpCamG) | macOS, iOS, Windows, Android | Godot |
 | [DeskImageFinder](https://github.com/sjrankin/DeskImageFinder) | macOS | Swift |
 | [SpectrumAnalyzer](https://github.com/sjrankin/SpectrumAnalyzer) | macOS, iOS | Swift |
 
@@ -85,6 +86,13 @@ DeskBlockCam running with a live view.
 <img src="Images/UpdatedBlockCam.gif" alt="Animation of DeskBlockCam running.">
 
 [Link to DeskBlockCam repo](https://github.com/sjrankin/DeskBlockCam)
+
+#### BumpCamG
+I ported DeskBlockCam to Godot. The first pass has most of the same features but a different UI. I added a few new features as well.
+
+<img src="Images/BumpCamGImageRotation.gif" alt="Animation of BumpCamG running.">
+
+[Link to BumpCamG repo](https://github.com/sjrankin/BumpCamG)
 
 ### Desk Image Finder (macOS)
 App that runs on Macs that searches for similar images. Answers the question: Do I already have this image somewhere? Arranges images in order of similarity.
