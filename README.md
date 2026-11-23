@@ -10,7 +10,7 @@ A collection of the code I've written from 2018 to the present. Most of it targe
 |---|---|---|
 | [FilterView](https://github.com/sjrankin/FilterView) | macOS, iOS | Swift |
 | [BoardTestG](https://github.com/sjrankin/BoardTestG) | macOS, iOS, Windows, Android | Godot |
-| [HUDViewWatch](https://github.com/sjrankin/HUDViewWatch) | iOS, watchOS | Swift |
+| [HUDViewWatch](https://github.com/sjrankin/HUDViewWatch) | iOS, watchOS, macOS | Swift |
 | [ColorManager](https://github.com/sjrankin/ColorManager2) | macOS (iOS-capable) | Swift |
 | [Flatland](https://github.com/sjrankin/FlatlandView) | macOS (iOS version available) | Swift, SceneKit, AppKit |
 | [FlatlandU](https://https://github.com/sjrankin/FlatlandU) | macOS, iOS, Windows, Android | Godot |
@@ -37,14 +37,17 @@ BoardTestG running in attract mode with a discontinuous 2D board.
 
 <img src="Images/BoardTestGDiscontinuous.gif" alt="Animation of HUDView running.">
 
-### HUDViewWatch (iOS, watchOS)
-This app on iPhones shows a live view with points of interest overlayed the camera view. The points of interest remain in place relative to the user as the phone is moved around. A watchOS companion app displays the same information (without the live view) on a radar plot.
+### HUDViewWatch (iOS, watchOS, macOS)
+This app on iPhones shows a live view with points of interest overlayed the camera view. The points of interest remain in place relative to the user as the phone is moved around. A watchOS companion app displays the same information (without the live view) on a radar plot. A companion macOS program is part of the project that mirrors the iPhone's orientation and location and points of interest.
 
 Animation of HUDViewWatch running on an iPhone.\
-<img src="Images/HUDViewWatchPortrait.gif" alt="Animation of HUDViewWatch running on an iPhone.">\
+<img src="Images/HUDViewWatchPortrait.gif" alt="Animation of HUDViewWatch running on an iPhone.">
 
 Animation of HUDViewWatch running on an Apple Watch.\
-<img src="Images/HUDViewWatchWatchTest.gif" alt="Animation of HUDViewWatch running on an Apple Watch.">\
+<img src="Images/HUDViewWatchWatchTest.gif" alt="Animation of HUDViewWatch running on an Apple Watch.">
+
+Animation of HUDViewMac running on a Mac Mini with the controller iPHone shown as well.\
+<img src="Images/HUDViewMacDemo.gif" alt="Animation of HUDViewMac and HUDViewWatch running simultaneously.">
 
 [Link to HUDViewWatch repo](https://github.com/sjrankin/HUDViewWatch)
 
@@ -52,7 +55,7 @@ Animation of HUDViewWatch running on an Apple Watch.\
 Stores named colors and displays them as color chips. Originally written in C# and WPF for Windows, ported to macOS. (The app can run on iOS but several features are removed for that platform.)
 
 View of theColor manager showing various colors.\
-<img src="Images/ColorManagerStatic.png" alt="View of ColorManager showing colors." width="600">\
+<img src="Images/ColorManagerStatic.png" alt="View of ColorManager showing colors." width="600">
 
 [Link to ColorManager repo](https://github.com/sjrankin/ColorManager2)
 
@@ -70,11 +73,11 @@ This is a port of Flatland (see above) to Godot via Claude. Claude enables strai
 
 Flatland Universal showing the orbiting welcoming text.
 
-<img src="Images/FlatlandUWelcome.gif" alt="Animation of Flatland universal welcome text." width="500">\
+<img src="Images/FlatlandUWelcome.gif" alt="Animation of Flatland universal welcome text." width="500">
 
 Flatland Universal in an alternate attract mode:
 
-<img src="Images/FlatlandU-recording.gif" alt="Animation of Flatland universal welcome text." width="500">\
+<img src="Images/FlatlandU-recording.gif" alt="Animation of Flatland universal welcome text." width="500">
 
 [Link to FlatlandU repo](https://https://github.com/sjrankin/FlatlandU)
 
