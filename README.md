@@ -115,6 +115,6 @@ A quick app to apply a sound spectrum to a histogram of an app. The results were
 ### Solar System Simulator (macOS)
 Simulation of the Earth's solar system written in Godot. I used Claude for the coding. I also installed a local LLM on my computer and use it directly from the simulator to create flights within the solar system.
 
-
+https://github.com/user-attachments/assets/75bf1530-23fd-40b9-bce0-9af427b39276
 
 [Link to Solar System Simulator repo](https://github.com/sjrankin/SolarSystem)
