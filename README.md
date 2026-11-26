@@ -18,6 +18,7 @@ A collection of the code I've written from 2018 to the present. Most of it targe
 | [BumpCamG](https://github.com/sjrankin/BumpCamG) | macOS, iOS, Windows, Android | Godot |
 | [DeskImageFinder](https://github.com/sjrankin/DeskImageFinder) | macOS | Swift |
 | [SpectrumAnalyzer](https://github.com/sjrankin/SpectrumAnalyzer) | macOS, iOS | Swift |
+| [Solar System Simulator + LLM](https://github.com/sjrankin/SolarSystem) | macOS, iOS, Windows, Android | Godot |
 
 ## Projects
 
@@ -110,3 +111,10 @@ A quick app to apply a sound spectrum to a histogram of an app. The results were
 <img src="Images/MusicSpectrumOnImage.gif" alt="Sound spectrum applied to an image via a histogram." width="500">
 
 [Link to SpectrumAnalyzer repo](https://github.com/sjrankin/SpectrumAnalyzer)
+
+### Solar System Simulator (macOS)
+Simulation of the Earth's solar system written in Godot. I used Claude for the coding. I also installed a local LLM on my computer and use it directly from the simulator to create flights within the solar system.
+
+
+
+[Link to Solar System Simulator repo](https://github.com/sjrankin/SolarSystem)
